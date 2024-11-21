@@ -1,22 +1,23 @@
 <h1 align="left">🐱 EMITRR-Exploding Kittens 🐱</h1>
 <p align="left">A Web-Based Card Game</p>
 
-
 ## Live Link
+
 [live demo](https://exploding-kittens.netlify.app/) to experience the game
 
 ## Instructions for Running the Game Locally
 
 1. **Clone the Repository**
+
    - Open your terminal and navigate to the directory where you want to clone the repository.
    - Run the following command to clone the repository:
      ```bash
-     git clone https://github.com/sachindolase/EMITRR-Exploding-Kittens.git
+     git clone https://github.com/hardik987/emitrrexplodingkitten.git
      ```
 
 2. **Set Up Server**
+
    - Navigate to the `EMITRR-Exploding-Kittens` directory:
-     
    - Start the backend:
      1. **Setting up your environment:**
         ```bash
